@@ -1,5 +1,4 @@
-# sudo bash -c ‘echo “txt” > /etc/systemd/system/myltsp.service ‘
-# sudo vim /etc/systemd/system/myltsp.service 
+# A service to automatically run t99metrics script after machine's full boot
 
 [Unit]
 Description=Metrics Adjustments
