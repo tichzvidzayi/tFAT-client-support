@@ -1,5 +1,6 @@
 # Author: Tichaona Zvidzayi
 # Date :  20 November 2019
+# Discription : A bash script to allow fat clients to route external network
 ############################################################################################
 # sudo bash -c ‘echo “ ” > /usr/local/sbin/99metrics.sh‘  #creating script file
 # 
@@ -7,7 +8,7 @@
 # sudo vim /usr/local/sbin/99metrics.sh      #use vim or any editor of choice
 
 #############################################################################################
-# A bash script to allow fat clients to route external network
+
 
 #!/bin/bash 
 ifmetric eno1 50     #connects to the public Internet (external network)
