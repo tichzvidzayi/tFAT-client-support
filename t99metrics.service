@@ -1,4 +1,6 @@
-# A service to automatically run t99metrics script after machine's full boot
+# Author: Tichaona Zvidzayi
+# Date :  20 November 2019
+# Discription : A service to automatically run t99metrics script after machine's full boot
 
 [Unit]
 Description=Metrics Adjustments
