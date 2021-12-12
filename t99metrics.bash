@@ -1,5 +1,5 @@
-sudo bash -c ‘echo “txt” > /etc/systemd/system/myltsp.service ‘
-sudo vim /etc/systemd/system/myltsp.service 
+# sudo bash -c ‘echo “txt” > /etc/systemd/system/myltsp.service ‘
+# sudo vim /etc/systemd/system/myltsp.service 
 
 [Unit]
 Description=Metrics Adjustments
